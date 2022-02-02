@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phanterboi
+- 👋 Hi, I’m @pantherboi
 - 👀 My pa is interested in process improvment, like do things with less time.
 - 🌱 He currently learning automatate testing, the purposes of this repo will be materials for that.
 - 💞️ He's looking to collaborate on ...
