@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phanterboi
-- 👀 I’m interested in process improvment, reduce time to do things.
-- 🌱 I’m currently learning automatate testing, the purposes of this repo will be materials for that.
-- 💞️ I’m looking to collaborate on ...
+- 👀 My pa is interested in process improvment, reduce time to do things.
+- 🌱 He currently learning automatate testing, the purposes of this repo will be materials for that.
+- 💞️ He's looking to collaborate on ...
 - 📫 How to reach me, I'm currently inside my ma womb, so please contact my pa instead jittikhuns.dev@gmail.com
 
 <!---
